@@ -45,6 +45,11 @@ Use this format when adding entries:
 
 ## Listed plugins
 
+- **Adaptive Cards** — Render, validate, and preview Adaptive Cards with 25 bridge functions, v1.6 schema validation, 7 host compatibility profiles, WCAG accessibility scoring, and 21 layout patterns. 86 tests with persistence and preview support.
+  npm: `openclaw-adaptive-cards`
+  repo: `https://github.com/nicholasgriffintn/openclaw-adaptive-cards`
+  install: `openclaw plugins install openclaw-adaptive-cards`
+
 - **WeChat** — Connect OpenClaw to WeChat personal accounts via WeChatPadPro (iPad protocol). Supports text, image, and file exchange with keyword-triggered conversations.
   npm: `@icesword760/openclaw-wechat`
   repo: `https://github.com/icesword0760/openclaw-wechat`
